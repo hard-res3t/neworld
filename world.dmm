@@ -1,0 +1,26 @@
+"a" = (/turf/floor,/area)
+"b" = (/turf/wall,/area)
+"d" = (/obj,/turf/floor,/area)
+
+(1,1,1) = {"
+bbbbbbbbbbbbbbbbbbbb
+baaabaaaaaaaaaaaaaab
+baaabaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaaaaab
+bbbaaaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaaaaab
+baaadaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaaabbb
+baaaaaaaaaaaaaaaaaab
+baaaaaaaaaaaaaabaaab
+baaaaaaaaaaaaaabaaab
+bbbbbbbbbbbbbbbbbbbb
+"}
