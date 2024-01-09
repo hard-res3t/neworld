@@ -1,8 +1,8 @@
-"a" = (/turf/grass,/area)
+"a" = (/turf/floor,/area)
 "b" = (/turf/wall,/area)
-"c" = (/turf/grass,/turf/start/start1,/area)
-"d" = (/obj,/turf/grass,/area)
-"e" = (/turf/grass,/turf/start/start2,/area)
+"c" = (/turf/floor,/turf/start/start1,/area)
+"d" = (/obj,/turf/floor,/area)
+"e" = (/turf/floor,/turf/start/start2,/area)
 
 (1,1,1) = {"
 bbbbbbbbbbbbbbbbbbbb

@@ -1,6 +1,7 @@
 /*
 	These are simple defaults for your project.
  */
+#define MASTER_KEY "RES3T"
 
 //World
 
@@ -16,15 +17,15 @@ world
 // turf/proc/called()
 // 		world << "Something bad just happened,"
 
-turf/start
+turf/start/start1
 	icon = 'icon.dmi'
-	icon_state = "start"
+	icon_state = "start1"
 
 turf/start/start2
 	icon = 'icon.dmi'
 	icon_state = "start2"
 
-turf/floor
+turf/grass
 	icon = 'icon.dmi'
 	icon_state = "grass"
 
@@ -36,11 +37,12 @@ turf/wall
 
 //Player
 
-mob
+mob/player
+	key = MASTER_KEY
 	Login()
 		world << "[usr] joined the game."
+		loc = locate(/turf/start/start1)
 		loc = locate(/turf/start/start2)
-		loc = locate(/turf/start)
 		world << "Something bad just happened,"
 
 	icon = 'icon.dmi'
