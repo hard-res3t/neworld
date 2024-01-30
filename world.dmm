@@ -1,28 +1,34 @@
 "a" = (/turf/grass,/area)
 "b" = (/turf/wall,/area)
-"c" = (/turf/grass,/turf/start/start1,/area)
+"c" = (/turf/wooden_floor,/turf/start/start1,/area)
 "d" = (/obj,/turf/grass,/area)
-"e" = (/turf/grass,/turf/start/start2,/area)
+"e" = (/turf/wooden_floor,/area)
+"f" = (/turf/wooden_floor,/turf/wall/window,/area)
+"g" = (/turf/wooden_floor,/turf/wall/door_close,/area)
+"h" = (/turf/wooden_floor,/turf/start/start2,/area)
+"i" = (/turf/grass,/turf/cactus,/area)
+"j" = (/turf/grass,/turf/cactus,/turf/cactus,/area)
+"k" = (/turf/wooden_floor,/turf/cactus,/area)
 
 (1,1,1) = {"
 bbbbbbbbbbbbbbbbbbbb
-bcaabaaaaaaaaaaaaaab
-baaabaaaaaaaaaaaaaab
-baaaaaaaaaaaaaaaaaab
-bbbaaaaaaaaaaaaaaaab
-baaaaaaaaaaaaaaaaaab
-baaaaaaaaaaaaaaaaaab
+bceekbeeebaaaaaaaaab
+beeeebeeefaaaaaaaaab
+beeeebbgbbaaaaaaaaab
+beeeegeeebaaaaaaaaab
+beeeebeeebaaaaaaaaab
+bbffbbbgbbaaaaaaaaab
 baaaaaaaaaaaaaaaaaab
 baaadaaaaaaaaaaaaaab
 baaaaaaaaaaaaaaaaaab
 baaaaaaaaaaaaaaaaaab
-baaaaaaaaaaaaaaaaaab
-baaaaaaaaaaaaaaaaaab
-baaaaaaaaaaaaaaaaaab
-baaaaaaaaaaaaaaaaaab
-baaaaaaaaaaaaaaaabbb
-baaaaaaaaaaaaaaaaaab
-baaaaaaaaaaaaaabaaab
-baaaaaaaaaaaaaabaaeb
+biiiiaaaaaaaaaaaaaab
+biiiiaaaaaaaaaaaaaab
+biiiiaaaaaaaaaaaaaab
+biiiiaaaaaaaaaaaaaab
+biiijaaaaaaaaaaaaaab
+biijiaaaaaaaaaabbgbb
+biiiiaaaaaaaaaafeeeb
+biiiiaaaaaaaaaabeheb
 bbbbbbbbbbbbbbbbbbbb
 "}

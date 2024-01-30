@@ -13,7 +13,7 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
-#include "code.dm"
 #include "world.dmm"
+#include "code\player.dm"
+#include "code\world.dm"
 // END_INCLUDE
-
